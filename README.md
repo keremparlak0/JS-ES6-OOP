@@ -7,4 +7,6 @@ Udemy'den aldığım "Modern Web Geliştirme Kursu Sıfırdan Sektörün Yüksek
 - OOP tekniğiyle yazılmıştır.
 - Güncel yazım biçimine uyarlanmış hali de mevcuttur.
 
-
+#### Aşağıda projenin ekran görüntüleri bulunmaktadır. Local Storage içindeki kaydı da ikinci görseldedir. 
+![alt text](https://i.hizliresim.com/kychbev.png)
+![alt text](https://i.hizliresim.com/pte92qt.png)
